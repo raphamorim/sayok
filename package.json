@@ -1,0 +1,11 @@
+{
+  "name": "sayok",
+  "version": "0.1.2",
+  "description": "Terminal Notification for MacOS to notify Ok",
+  "main": "index.js",
+  "bin": {
+    "sayok": "./index.js"
+  },
+  "author": "Raphael Amorim",
+  "license": "MIT"
+}
